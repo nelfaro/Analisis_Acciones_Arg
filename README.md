@@ -11,4 +11,4 @@ Se Analizaron:
 * Cuales son las 9 mejores empresas para invertir teniendo en cuenta el periodo (2014-2024)
 * Calculo de las 9 empresas para invertir teniendo en cuenta la variacion de precios del ultimo año
 
-Este trabajo tambien se puede visualizar en un tablero dinamico desarrollado en Tableau ingresando al siguente enlace: https://public.tableau.com/views/AccionesMerval/RentabilidadEstimada?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link
+Este trabajo tambien se puede visualizar en un tablero dinamico desarrollado en Tableau ingresando al siguente enlace: https://public.tableau.com/views/AccionesMerval/Dashboard?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
